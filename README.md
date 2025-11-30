@@ -25,3 +25,6 @@ python examples/example_single_patch.py
 python examples/example_power_map_and_placement.py
 python examples/example_kcs_nominal_panel_map.py
 python examples/example_kcs_nominal_animated.py
+## Simulation Overview
+
+![Wave-vibration harvester visualization](assets/overview.png)
